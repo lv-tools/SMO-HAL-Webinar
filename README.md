@@ -13,6 +13,17 @@
 
 *To use Camera.IMAQdx class, you will require a valid Vision RunTime License or Vision Development License from National Instruments (ni.com)
 
+## vipm.dependencies
+- oglib_file = "4.0.1.22"
+- oglib_time = "4.0.1.3"
+- oglib_variantconfig = "4.0.0.5"
+- jki_lib_state_machine = "2018.0.7.45"
+- jki_statemachineobjects = "1.4.0.69"
+- jki_lib_smo_dictionary = "1.1.0.6"
+
+*Update at 2023/8/17
+
+
 ## Settings files 
 - You can edit "simulated.ini" file provided to change the relative path to images folder and use your own images
 - You can edit "hal.ini" file provided to use a more specific camera (IMAQdx code provided).
