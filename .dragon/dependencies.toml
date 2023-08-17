@@ -1,0 +1,11 @@
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+oglib_file = "4.0.1.22"
+oglib_time = "4.0.1.3"
+oglib_variantconfig = "4.0.0.5"
+jki_lib_state_machine = "2018.0.7.45"
+jki_statemachineobjects = "1.4.0.69"
+jki_lib_smo_dictionary = "1.1.0.6"
